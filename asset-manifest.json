@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Stefanov999/react-pages/static/css/main.95e7ee14.css",
-    "main.js": "/Stefanov999/react-pages/static/js/main.c2389edd.js",
-    "static/js/787.c2651732.chunk.js": "/Stefanov999/react-pages/static/js/787.c2651732.chunk.js",
-    "index.html": "/Stefanov999/react-pages/index.html",
-    "main.95e7ee14.css.map": "/Stefanov999/react-pages/static/css/main.95e7ee14.css.map",
-    "main.c2389edd.js.map": "/Stefanov999/react-pages/static/js/main.c2389edd.js.map",
-    "787.c2651732.chunk.js.map": "/Stefanov999/react-pages/static/js/787.c2651732.chunk.js.map"
+    "main.css": "/gr-pages/static/css/main.95e7ee14.css",
+    "main.js": "/gr-pages/static/js/main.2ab935df.js",
+    "static/js/787.85466edd.chunk.js": "/gr-pages/static/js/787.85466edd.chunk.js",
+    "index.html": "/gr-pages/index.html",
+    "main.95e7ee14.css.map": "/gr-pages/static/css/main.95e7ee14.css.map",
+    "main.2ab935df.js.map": "/gr-pages/static/js/main.2ab935df.js.map",
+    "787.85466edd.chunk.js.map": "/gr-pages/static/js/787.85466edd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95e7ee14.css",
-    "static/js/main.c2389edd.js"
+    "static/js/main.2ab935df.js"
   ]
 }
